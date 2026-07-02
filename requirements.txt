@@ -1,0 +1,9 @@
+anthropic
+openai
+google-genai
+python-dotenv
+
+# Notebook stack (already installed in your environment; listed for reproducibility)
+jupyterlab
+notebook
+ipykernel
